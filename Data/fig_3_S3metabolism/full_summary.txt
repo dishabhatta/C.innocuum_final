@@ -1,0 +1,68 @@
+bin_name	COG20_CATEGORY_ACC	COG20_CATEGORY	n	newcog	perc
+Core	C	Energy production and conversion	22789	C	4.143515
+Core	D	Cell cycle control, cell division, chromosome partitioning	13472	D	2.44949
+Core	E	Amino acid transport and metabolism	43049	E	7.827205
+Core	F	Nucleotide transport and metabolism	17973	F	3.267866
+Core	G	Carbohydrate transport and metabolism	69388	G	12.616184
+Core	H	Coenzyme transport and metabolism	22038	H	4.006967
+Core	I	Lipid transport and metabolism	12190	I	2.216396
+Core	J	Translation, ribosomal structure and biogenesis	42721	J	7.767568
+Core	K	Transcription	41270	K	7.503746
+Core	L	Replication, recombination and repair	21640	L	3.934603
+Core	M	Cell wall/membrane/envelope biogenesis	21084	M	3.83351
+Core	N	Cell motility	1895	N	0.34455
+Core	O	Posttranslational modification, protein turnover, chaperones	15999	O	2.908951
+Core	P	Inorganic ion transport and metabolism	23543	P	4.280608
+Core	Q	Secondary metabolites biosynthesis, transport and catabolism	3009	Q	0.547099
+Core	R	General function prediction only	26122	R	4.749524
+Core	S	Function unknown	14581	S	2.651129
+Core	T	Signal transduction mechanisms	23075	T	4.195516
+Core	U	Intracellular trafficking, secretion, and vesicular transport	2811	U	0.511098
+Core	V	Defense mechanisms	14839	V	2.698039
+Core	X	Mobilome: prophages, transposons	235	X	0.042728
+Core	Not_Assigned	Not_Assigned	96269	Not_Assigned	17.503709
+Accessory_singleton	C	Energy production and conversion	1707	C	0.649156
+Accessory_singleton	D	Cell cycle control, cell division, chromosome partitioning	3526	D	1.340904
+Accessory_singleton	E	Amino acid transport and metabolism	2722	E	1.03515
+Accessory_singleton	F	Nucleotide transport and metabolism	912	F	0.346825
+Accessory_singleton	G	Carbohydrate transport and metabolism	15112	G	5.746947
+Accessory_singleton	H	Coenzyme transport and metabolism	2653	H	1.00891
+Accessory_singleton	I	Lipid transport and metabolism	768	I	0.292063
+Accessory_singleton	J	Translation, ribosomal structure and biogenesis	1627	J	0.618732
+Accessory_singleton	K	Transcription	17690	K	6.727336
+Accessory_singleton	L	Replication, recombination and repair	14276	L	5.429025
+Accessory_singleton	M	Cell wall/membrane/envelope biogenesis	11177	M	4.250505
+Accessory_singleton	N	Cell motility	319	N	0.121313
+Accessory_singleton	O	Posttranslational modification, protein turnover, chaperones	1509	O	0.573858
+Accessory_singleton	P	Inorganic ion transport and metabolism	526	P	0.200033
+Accessory_singleton	Q	Secondary metabolites biosynthesis, transport and catabolism	847	Q	0.322106
+Accessory_singleton	R	General function prediction only	4410	R	1.67708
+Accessory_singleton	S	Function unknown	3270	S	1.243549
+Accessory_singleton	T	Signal transduction mechanisms	5251	T	1.996904
+Accessory_singleton	U	Intracellular trafficking, secretion, and vesicular transport	4455	U	1.694193
+Accessory_singleton	V	Defense mechanisms	8084	V	3.074267
+Accessory_singleton	W	Extracellular structures	12	W	0.004563
+Accessory_singleton	X	Mobilome: prophages, transposons	10615	X	4.036782
+Accessory_singleton	Not_Assigned	Not_Assigned	151489	Not_Assigned	57.609799
+Soft_shell	C	Energy production and conversion	6291	C	2.661517
+Soft_shell	D	Cell cycle control, cell division, chromosome partitioning	4481	D	1.895765
+Soft_shell	E	Amino acid transport and metabolism	11301	E	4.781084
+Soft_shell	F	Nucleotide transport and metabolism	3697	F	1.56408
+Soft_shell	G	Carbohydrate transport and metabolism	40824	G	17.2713
+Soft_shell	H	Coenzyme transport and metabolism	6925	H	2.929741
+Soft_shell	I	Lipid transport and metabolism	2895	I	1.22478
+Soft_shell	J	Translation, ribosomal structure and biogenesis	10311	J	4.362247
+Soft_shell	K	Transcription	23798	K	10.068156
+Soft_shell	L	Replication, recombination and repair	5774	L	2.442791
+Soft_shell	M	Cell wall/membrane/envelope biogenesis	7232	M	3.059623
+Soft_shell	N	Cell motility	632	N	0.267379
+Soft_shell	O	Posttranslational modification, protein turnover, chaperones	3706	O	1.567887
+Soft_shell	P	Inorganic ion transport and metabolism	4182	P	1.769268
+Soft_shell	Q	Secondary metabolites biosynthesis, transport and catabolism	654	Q	0.276686
+Soft_shell	R	General function prediction only	9688	R	4.098676
+Soft_shell	S	Function unknown	4669	S	1.975301
+Soft_shell	T	Signal transduction mechanisms	7001	T	2.961894
+Soft_shell	U	Intracellular trafficking, secretion, and vesicular transport	919	U	0.388799
+Soft_shell	V	Defense mechanisms	6783	V	2.869666
+Soft_shell	X	Mobilome: prophages, transposons	3293	X	1.393161
+Soft_shell	Not_Assigned	Not_Assigned	71313	Not_Assigned	30.1702
